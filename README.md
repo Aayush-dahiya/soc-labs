@@ -19,7 +19,7 @@ This repository serves as my cybersecurity portfolio, showcasing:
 ## Lab Index
 *(This list will be updated as I add new labs)*
 
-1. **Lab Name** – Short description (Skills: SIEM, Phishing Investigation, etc.)
+1. **Lab Name** – 
 2. *(More labs coming soon)*
 
 ## Contact
