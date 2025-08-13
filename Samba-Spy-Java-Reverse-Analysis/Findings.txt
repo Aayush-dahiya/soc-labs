@@ -1,1 +1,9 @@
+VM Check Method: isRunningInVM
+Required Language: Italian
+Extraction Method: extractLibs
+Extraction Path: C:\Users\Public\
+Payload Name: Prodotto.png
+Execution Command: java -jar C:\Users\Public\Prodotto.png
+Additional VM Check: wmic baseboard get manufacturer
+VM Vendors Checked: 4
 
