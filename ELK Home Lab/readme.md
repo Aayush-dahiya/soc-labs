@@ -1,4 +1,3 @@
-[SOC MITRE LAB 255f484cbe9d80d281e2fc0e8dde8534.md](https://github.com/user-attachments/files/22100587/SOC.MITRE.LAB.255f484cbe9d80d281e2fc0e8dde8534.md)
 # SOC MITRE LAB
 
 # **Project Overview**
