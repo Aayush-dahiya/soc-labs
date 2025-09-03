@@ -1,0 +1,13 @@
+# Lab Diagram
+
+![alt text](https://drive.google.com/file/d/1_LJZmoGGISD13EKa5JOTHNuB8QwBH7FP/view?usp=sharing)
+
+Components
+
+Attacker Machine: Kali Linux
+Victim Endpoints: Windows 10 (Sysmon), Ubuntu desktop
+SOC Tools:
+
+- SIEM (Splunk/ELK/Wazuh)
+- IDS/IPS (Suricata, Zeek)
+- Endpoint logging (Sysmon, auditd)
