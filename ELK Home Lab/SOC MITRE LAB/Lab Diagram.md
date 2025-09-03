@@ -1,6 +1,6 @@
 # Lab Diagram
 
-https://github.com/Aayush-dahiya/soc-labs/blob/main/ELK%20Home%20Lab/Images/Lab%20Diagram.png
+![alt text](https://github.com/Aayush-dahiya/soc-labs/blob/main/ELK%20Home%20Lab/Images/Lab%20Diagram.png)
 
 Components
 
