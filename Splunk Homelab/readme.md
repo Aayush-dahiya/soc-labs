@@ -7,8 +7,6 @@ The lab simulates a small enterprise network where multiple hosts send logs into
 
 ## 🏗️ Lab Architecture
 
-![til](soc-labs/Splunk%20Homelab/images/Splunk%20data%20Flow.gif)
-
 ![](https://github.com/Aayush-dahiya/soc-labs/blob/main/Splunk%20Homelab/images/Splunk%20data%20Flow.gif)
 
 
