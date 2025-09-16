@@ -9,6 +9,8 @@ The lab simulates a small enterprise network where multiple hosts send logs into
 
 ![til](soc-labs/Splunk%20Homelab/images/Splunk%20data%20Flow.gif)
 
+![](https://github.com/Aayush-dahiya/soc-labs/blob/main/Splunk%20Homelab/images/Splunk%20data%20Flow.gif)
+
 
 *Figure 1 — SOC architecture showing Splunk server, Windows, Ubuntu, and Kali VMs in host-only subnet.*
 
